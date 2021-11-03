@@ -1,14 +1,23 @@
 {
-    "name": "cpnt262-a4",
-    "version": "1.0.0",
-    "description": "",
-    "main": "app.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "Mysia",
-    "license": "MIT",
-    "dependencies": {
-        "lodash": "^4.17.21"
-    }
+  "name": "cpnt262-a4",
+  "version": "1.0.0",
+  "description": "A short (one sentence) description of what your App does (it does not have to be useful); Include three example commands that can be copy and pasted (note: each of these three commands should return different responses);",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mysia",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mysia14/cpnt262-a4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mysia14/cpnt262-a4/issues"
+  },
+  "homepage": "https://github.com/Mysia14/cpnt262-a4#readme"
 }
