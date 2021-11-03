@@ -8,9 +8,12 @@ This app is for calculating the speed using distance (km) and time(h).
 ## Author: 
 Mysia Santana
 
+### Links:
+* GH repo: https://github.com/Mysia14/cpnt262-a4
+
 
  ###  Attributions for: 
- The third packge used was the [Lodash] (https://lodash.com/docs/4.17.15#divide).
+ The third packge used was the [Lodash](https://lodash.com/docs/4.17.15#divide).
  I got a great help from [Icah] (https://github.com/Icahpv) and some orientations from Norvillie.
 
 
